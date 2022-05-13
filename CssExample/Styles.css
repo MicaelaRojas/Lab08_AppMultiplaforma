@@ -1,0 +1,24 @@
+
+^ContentPage {
+    font-family: "Times New Roman", Times, serif;
+    background-color: lightgreen;
+    margin-left: auto;
+    color: black;
+}
+
+.MyLabel {
+    color: #544649;
+    font-size: small;
+}
+.MyLabel2 {
+    color: #2B2634;
+    font-size: medium;
+}
+
+#NamedLabel {
+    font-size: large;
+    color: #000000;
+}
+stacklayout button {
+    background-color: #FF1493;
+} 
